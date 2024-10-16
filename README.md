@@ -1,4 +1,4 @@
-# Bindiff_IDA_9.0_Apple_Silicon
+# Bindiff IDA Pro 9.0 Apple Silicon
 Bindiff and Binexport dylibs for IDA Pro 9 on Apple Silicon
 
 Add all of these to `~/.idapro/plugins`.
